@@ -44,9 +44,9 @@ The next step would be to install the plugin that will let you install the actua
 asdf plugin-add java https://github.com/halcyon/asdf-java.git
 ```
 
-### 4. Installing the run time.
+### 4. Installing the runtime.
 
-Let's install the version of the runtime that we need. For example, to install java 8 sdk, you can run the below command.
+Let's install any version of runtime that we need. For example, to install java 8 sdk, you can run the below command.
 
 ```shell
 asdf install java adoptopenjdk-8.0.312+7
