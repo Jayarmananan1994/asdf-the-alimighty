@@ -12,9 +12,10 @@ That's when I got introduced to `asdf` by a fellow Thoughtworker.
 
 ## Getting started with asdf
 _Note:_
-_1. For sake of brevity, here I am describing here the scenario of MacOS + brew combo ._
-_2. For Ubuntu, you can find installation step here [here](http://asdf-vm.com/guide/getting-started.html#_1-install-dependencies)_
-_3. Similarly, installing runtime other java also should be fairly straight forward. For example if we need to install nodejs just replace `java` with `nodejs`_
+
+_1. For sake of brevity, here I am describing here the scenario of MacOS + brew combo_\
+_2. For Ubuntu, you can find installation step here [here](http://asdf-vm.com/guide/getting-started.html#_1-install-dependencies)_\
+_3. Similarly, installing runtime other java also should be fairly straight forward. For example if we need to install nodejs just replace `java` with `nodejs`_. 
 
 ### 1. Installing asdf
 
