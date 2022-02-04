@@ -32,7 +32,7 @@ echo -e "\n. $(brew --prefix asdf)/etc/bash_completion.d/asdf.bash" >> ~/.bash_p
 #If you are using zsh shell 
 echo -e "\n. $(brew --prefix asdf)/libexec/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
 ```
-Now if you run `asdf` command in your terminal, you ll get a bunch of helpful command along with a punch line from Superstar.
+Now if you run `asdf` command in your terminal, you ll get a bunch of helpful command along with a punch line from **Superstar**.
 
 ![](https://c.tenor.com/ED0zRcr1x8kAAAAd/rajinikanth-superstar.gif)
 
