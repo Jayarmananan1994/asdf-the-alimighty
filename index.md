@@ -90,10 +90,11 @@ One thing to point out is, when you configre a runtime version inside project it
 
 ## And finally,
 
-There is no problem with the package manager like npm, rbenv etc. They are great tools on their own and do their job. But personally I felt `asdf` is making developers' lives easier and brings a unified approach in maintaining different runtimes. `asdf` is not without any caveats. Below are few things that I noted.
--> asdf may not work as expected for a language, if you already have a package manager specific to that language/runtime. For example, I had an issue with handling ruby runtime using `asdf` in a system where `rbenv` is already installed.
--> Some of the runtime might need extra prerequisite steps 
--> Some may need extra step post installation.
+There is no problem with the package manager like npm, rbenv etc. They are great tools on their own and do their job. But personally I felt `asdf` is making developers' lives easier and brings a unified approach in maintaining different runtimes. `asdf` is not without any caveats. Below are few things that I noted (Can't say as issue completly).
+
+* asdf may not work as expected for a language, if you already have a package manager specific to that language/runtime. For example, I had an issue with handling ruby runtime using `asdf` in a system where `rbenv` is already installed.
+* Some of the runtime might need extra prerequisite dependencies.
+* Some may need extra step post installation.
 
 Despite all of that, I still feel it is an awesome tool and would recommend any developer who works in ubuntu, Mac to have it in their kit. So far I was able to manage java, nodejs, ruby runtime easily with `asdf` and from my brief experience of using `asdf` I would weigh it as good as `brew` for a mac user. Thanks to those awesome people who contributes `asdf` I am  jumping around different runtime happily.
 
