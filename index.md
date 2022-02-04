@@ -1,6 +1,6 @@
 # ASDF - The almighty
 
-Once I happened to work on a legacy project which was using an older version of java. However I like to keep the java version updated in my system and fiddle around with new feature present offered by newer versions. And it was kind of a mess to switch the java version between the projects. 
+Once I happened to work on a legacy project which was using an older version of java. At same time, I want to keep the java version updated in my system as I like fiddle around with new feature offered by newer versions. However it was kind of a mess to maintain two version of Java and switch the version between the projects. 
 
 ![](https://favbulous.com/wp-content/uploads/2013/12/animals-who-are-terrible-at-judging-distances-2.gif)
 
