@@ -8,7 +8,7 @@ That's when I got introduced to `asdf` by a fellow Thoughtworker.
 
 ![](https://media3.giphy.com/media/IdrRAjS9jfD9dqQjAn/giphy.gif)
 
-You might have used **npm** for nodejs, **rbenv** for ruby and somany other package manager for different language and runtime. Each have thier own way of working. What if there is a single tool that can let you manage number of language/runtime with sigle CLI? The answer for this great quest is **asdf**. `asdf` is a tool that will help you manage multiple runtimes like java, ruby, nodejs in a single CLI.
+You might have used **npm** for nodejs, **rbenv** for ruby and so many other package manager for different language and runtime. Each have thier own way of working. What if there is a single tool that can let you manage number of language/runtime with sigle CLI? The answer for this great quest is **asdf**. `asdf` is a tool that will help you manage multiple runtimes like java, ruby, nodejs in a single CLI.
 
 Switching to `asdf` does not mean you have to give up on your favorite CLI aand its commands. You still have access to them. For example, even though if I manage my JDK and nodejs through `asdf`, I still can use `java` and `npm` commands
 
