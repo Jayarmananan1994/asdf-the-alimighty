@@ -85,6 +85,8 @@ asdf global java adoptopenjdk-8.0.312+7
 ```
 By this way, we can maintain a different java version without any conflict :star_struck:
 
+One thing to point out is, when you configre a runtime version inside project it generates a `.tool-version`. This single config file generated per project will manage the runtime version of the project. You can also configure `asdf` to use the `.ruby-version`, `.nvmrc` file instead of `.tool-version` file.
+
 ## And finally,
 
 There is no problem with the package manager like npm, rbenv etc. They are great tools on their own and do their job. But personally I felt `asdf` is making developers' lives easier and brings a unified approach in maintaining different runtimes. `asdf` is not without any caveats. Below are few things that I noted.
@@ -92,7 +94,7 @@ There is no problem with the package manager like npm, rbenv etc. They are great
 -> Some of the runtime might need extra prerequisite steps 
 -> Some may need extra step post installation.
 
-Despite all of that, I still feel it is an awesome tool and would recommend any developer who works in ubuntu, Mac to have it in their kit. So far I was able to manage java, nodejs, ruby runtime easily with `asdf` and from my brief experience of using `asdf` I would weigh it as good as `brew` for a mac user. Thanks you those people who contributes `asdf` i am  jumping around different runtime happily.
+Despite all of that, I still feel it is an awesome tool and would recommend any developer who works in ubuntu, Mac to have it in their kit. So far I was able to manage java, nodejs, ruby runtime easily with `asdf` and from my brief experience of using `asdf` I would weigh it as good as `brew` for a mac user. Thanks to those awesome people who contributes `asdf` I am  jumping around different runtime happily.
 
 ![](https://thumbs.gfycat.com/DefenselessWickedAmericanwirehair-size_restricted.gif)
 
