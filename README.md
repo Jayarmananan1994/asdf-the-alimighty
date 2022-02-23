@@ -69,7 +69,7 @@ If you want to list down all the versions installed locally, use any of the comm
 asdf list java
 ```
 ```shell
-asdf shim-version java
+asdf shim-versions java
 ```
 ### 5. Configuring the runtime
 
